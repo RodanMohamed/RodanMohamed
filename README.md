@@ -11,7 +11,7 @@ My personal profile
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Rodan Mohamed from Ismailia,Egypt. I'm a Machine Learning Engineer. I really enjoy learning AI. For This Moment I'm student in faculty of Science,Computer Science department,Suez Canal University  </h4>
+<h4> I'm Rodan Mohamed from Ismailia,Egypt. I'm a Machine Learning Engineer. I really enjoy learning AI. For This Moment I'm student in Suez Canal University.faculty of Science,Computer Science department </h4>
 
 
 	
