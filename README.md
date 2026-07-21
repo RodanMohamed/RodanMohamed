@@ -17,7 +17,7 @@ Building scalable web applications with ASP.NET Core, Angular, Dynamics 365, and
 ## 👨‍💻 About Me
 
 -  Software Engineer from Ismailia, Egypt
--  Computer Science Student at Suez Canal University
+-  Computer Science Graduate from Faculty of Science, Suez Canal University
 -  Passionate about building scalable backend systems
 -  Currently improving my skills in Cloud, Microservices, and System Design
 -  Interested in AI Integration, LLM Applications, and Intelligent Software
@@ -107,7 +107,9 @@ Although my primary focus is Software Engineering, I also enjoy integrating AI i
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodanMohamed&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodanMohamed&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=RodanMohamed&theme=tokyonight&hide_border=true)
+
+![](https://github-profile-trophy.vercel.app/?username=RodanMohamed&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
