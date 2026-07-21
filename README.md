@@ -72,34 +72,15 @@ Although my primary focus is software engineering, I enjoy integrating AI into r
 
 ---
 
-## 📌 Featured Projects
-
-> Pin your best repos here — replace with your top 3-4 projects.
-
-<p align="center">
-  <a href="https://github.com/RodanMohamed/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodanMohamed&repo=REPO_NAME_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/RodanMohamed/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodanMohamed&repo=REPO_NAME_2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RodanMohamed&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodanMohamed&layout=compact&theme=tokyonight" />
+ username=RodanMohamed&show_icons=true&theme=tokyonight&count_private=true" />
+username=RodanMohamed&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodanMohamed&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RodanMohamed&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
