@@ -16,7 +16,7 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-## 👨‍💻 About Me
+##  About Me
 
 -  Software Engineer from Ismailia, Egypt
 -  Computer Science graduate, Faculty of Science, Suez Canal University
@@ -75,14 +75,8 @@ Although my primary focus is software engineering, I enjoy integrating AI into r
 ## 📊 GitHub Stats
 
 <p align="center">
- username=RodanMohamed&show_icons=true&theme=tokyonight&count_private=true" />
-username=RodanMohamed&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodanMohamed&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Connect with Me
