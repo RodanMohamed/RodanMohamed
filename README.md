@@ -3,7 +3,7 @@ Hi 👋, I'm Rodan Mohamed
 </h1>
 
 <h3 align="center">
-Software Engineer | .NET Backend Developer | Angular Developer
+Software Engineer 
 </h3>
 
 <p align="center">
@@ -16,12 +16,12 @@ Building scalable web applications with ASP.NET Core, Angular, Dynamics 365, and
 
 ## 👨‍💻 About Me
 
-- 💻 Software Engineer from Ismailia, Egypt
-- 🎓 Computer Science Student at Suez Canal University
-- 🚀 Passionate about building scalable backend systems
-- 🌱 Currently improving my skills in Cloud, Microservices, and System Design
-- 🤖 Interested in AI Integration, LLM Applications, and Intelligent Software
-- 💬 Ask me about ASP.NET Core, Angular, Dynamics 365 CRM, REST APIs, EF Core, and Azure
+-  Software Engineer from Ismailia, Egypt
+-  Computer Science Student at Suez Canal University
+-  Passionate about building scalable backend systems
+-  Currently improving my skills in Cloud, Microservices, and System Design
+-  Interested in AI Integration, LLM Applications, and Intelligent Software
+-  Ask me about ASP.NET Core, Angular, Dynamics 365 CRM, REST APIs, EF Core, and Azure
 
 ---
 
@@ -99,6 +99,15 @@ Although my primary focus is Software Engineering, I also enjoy integrating AI i
 - MongoDB Atlas Vector Search
 - LangChain / LangFlow
 - LLM-powered Applications
+
+---
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=RodanMohamed&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RodanMohamed&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodanMohamed&layout=compact&theme=tokyonight)
 
 ---
 
